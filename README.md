@@ -1,4 +1,6 @@
-Simple Store Python Capstone
+##Simple Store Python Capstone
+
+
 This simple program is designed to manage a store's inventory and member data using Python. It incorporates essential programming concepts like if-else conditions, loops, and functions.
 
 Features
